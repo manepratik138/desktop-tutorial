@@ -40,7 +40,7 @@ def number(n):
 number(6)
 
 
-#तीन संख्यांमधून सर्वात मोठी शोधा
+#FINDING THE GRETEST VALUE
 def find(a,b,c):
     maximum=max(a,b,c)
     return maximum    ##without return value not dispaly it display none
@@ -105,4 +105,5 @@ def number(n):
     return True
 num=number(4)
 print(num)
+
 
